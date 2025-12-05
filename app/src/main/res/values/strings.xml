@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserAccount</string>
+    <string name="facts_about_numbers">Facts about numbers</string>
+    <string name="upload">Downloaded: %1$s</string>
+    <string name="my_lucky_number">My lucky number today</string>
+    <string name="close">Close</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="try_again">Try again</string>
+    <string name="settings">Settings</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="language">Language</string>
+    <string name="dark_theme">Dark</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+</resources>

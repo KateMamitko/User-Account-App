@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserAccount</string>
+    <string name="facts_about_numbers">Факти про номери</string>
+    <string name="upload">Завантажено: %1$s</string>
+    <string name="my_lucky_number">Моє щасливе число сьогодні</string>
+    <string name="close">Закрити</string>
+    <string name="previous">Попереднє</string>
+    <string name="next">Наступне</string>
+    <string name="login">Авторизуватись</string>
+    <string name="yes">Так</string>
+    <string name="cancel">Відмінити</string>
+    <string name="try_again">Спробувати ще раз</string>
+    <string name="settings">Налаштування</string>
+    <string name="enter_your_email">Введіть логін</string>
+    <string name="enter_password">Введіть пароль</string>
+    <string name="language">Мова</string>
+    <string name="dark_theme">Темна</string>
+    <string name="theme">Тема</string>
+    <string name="light_theme">Світла</string>
+</resources>

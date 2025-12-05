@@ -1,0 +1,10 @@
+{
+  "photo_header": "https://images.unsplash.com/photo-1503264116251-35a269479413",
+  "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+  "first_name": "Alex",
+  "last_name": "Moreno",
+  "about": "Android developer specializing in Kotlin, Jetpack Compose and clean architecture. Fan of cycling, tech, and specialty coffee.",
+  "age": 27,
+  "login": "alex.moreno",
+  "password": "P@ssw0rd123"
+}
